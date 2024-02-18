@@ -1,0 +1,13 @@
+body{
+    font-size:100%;
+    width:1060px;
+    margin:0 auto;
+    padding: 0;
+    height: 100%;
+  direction: rtl;
+  }
+  .top_info img {
+    width: 450px;
+    height: 350px;
+    padding-right: 360px;
+  }
